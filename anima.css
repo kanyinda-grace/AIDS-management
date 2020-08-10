@@ -1,0 +1,26 @@
+.passing 
+{ animation: passing_4537 2000s linear infinite; 
+transform-origin: 50% 50%; 
+}
+ @keyframes passing_4537 {
+	 0% { transform:translateX(-10%); 
+ } 
+ 2.94118% { 
+ transform:translateX(-145%); 
+
+ } 1% 
+ { transform:translateX(145%); 
+
+ }
+  2.94118% { 
+ transform:translateX(145%); 
+
+ } 
+ 500% { transform:translateX(50%); 
+ 
+ }
+ 
+ }
+ 
+
+ 

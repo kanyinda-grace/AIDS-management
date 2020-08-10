@@ -1,0 +1,16 @@
+.passing 
+{ animation: passing_4537 34s linear infinite; 
+transform-origin: 50% 50%; 
+}
+ @keyframes passing_4537 {
+	 0% { transform:translateX(-50%); opacity:0 
+ } 
+ 2.94118% { 
+ transform:translateX(0%); opacity:1
+ } 5.88235% 
+ { transform:translateX(50%); opacity:0
+ }
+ 100% { transform:translateX(50%); 
+ opacity:0 
+ }
+ }
